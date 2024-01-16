@@ -1,0 +1,11 @@
+• It should contain different concepts use in the OOP course.
+    § Derive a class diagram using a (basic) OO Design and Analysis.
+    § Well defined classes (delegation).
+    § Well defined encapsulation and use of polymorphism.
+    § High degree of dependency among the classes.
+    § Hierarchical Structure (i.e., inheritance, abstract classes, interfaces, etc.)
+    § Java Collections and Generics
+    § Unit Tests
+    § Exceptions
+    § Design Patterns.
+    § Well-Documented
